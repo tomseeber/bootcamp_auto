@@ -1,0 +1,3482 @@
+[
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Ali Rizvi",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Benjamin Snyder",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Chris Bock",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Chun Wong",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Debra Fenty",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Randy Dettmer",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Ryan Klueg",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Sean Atkins",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Tina Gosha",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "0: Data Prework",
+    "studentName": "Valerie Lobas",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "10. SQLAlchemy Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "11. HTML and CSS Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "12. Web Scraping and Mongo Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "14. JavaScript Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "15. Plotly Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "16. D3.js Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "17. Geo-Mapping Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Chris Bock",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Chun Wong",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Debra Fenty",
+    "submitted": true,
+    "grade": "B-"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Evan Kamis",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": true,
+    "grade": "B"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Sean Atkins",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "1. Excel Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "20. Tableau Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "21. Machine Learning Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "22. Big Data Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Chris Bock",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Chun Wong",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Debra Fenty",
+    "submitted": true,
+    "grade": "D+"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Evan Kamis",
+    "submitted": true,
+    "grade": "Incomplete"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Sean Atkins",
+    "submitted": true,
+    "grade": "B"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "2. Visual Basic Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Chris Bock",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Chun Wong",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Debra Fenty",
+    "submitted": true,
+    "grade": "D-"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": true,
+    "grade": "A+"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": true,
+    "grade": "A"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": true,
+    "grade": "B+"
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "3. Python Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": true,
+    "grade": "A-"
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "4. Pandas Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "5. Matplotlib Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "6. Python APIs Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "9. SQL Homework",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "ETL Project",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Final Project",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Ali Rizvi",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Benjamin Snyder",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Evan Kamis",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Goutham Polavaram",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Randy Dettmer",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Ryan Klueg",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 1: Employer Competitive",
+    "studentName": "Valerie Lobas",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Ryan Klueg",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 2: Create Professional Materials I",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Ryan Klueg",
+    "submitted": true,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 3: Build Your Visibility",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 4: Create Professional Materials II",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 5: Polish Your LinkedIn and Github",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 6: Prepare for a Successful Interview",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Milestone 7: Employer Ready",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 1",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Ali Rizvi",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Ben Baumgardner",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Benjamin Snyder",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Chris Bock",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Chun Wong",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Crisharon Beale",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Debra Fenty",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Evan Kamis",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Goutham Polavaram",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Hunter Block-Beach",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Ibrahim Oumar Mahamat Al Fatih",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Izet Bektic",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Kafui Ahedor",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Randy Dettmer",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Ryan Klueg",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Sean Atkins",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Sumeet Dhawan",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Suraj Thyagaraj",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Tina Gosha",
+    "submitted": false,
+    "grade": null
+  },
+  {
+    "assignmentTitle": "Project 2",
+    "studentName": "Valerie Lobas",
+    "submitted": false,
+    "grade": null
+  }
+]
